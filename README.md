@@ -7,5 +7,6 @@
 3. `billing-api` depends on `component-one`, `component-three` and the `accounts-api`.  the `billing-api` is exposed through all of the frontends - `web-frontend`, `ios-native`, and `android-native`
 4. `inventory-api` depends on `component-one`, `component-two`.  the `inventory-api` is exposed through all of the frontends - `web-frontend`, `ios-native`, and `android-native`
 
+---
 
-
+![Monorepo Structure](images/monorepo-structure.png)
